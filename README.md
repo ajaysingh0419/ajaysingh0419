@@ -145,7 +145,7 @@ A high-performance C++ system for parsing raw PCAP network traffic into structur
 
 **University of Maryland, Baltimore County**
 M.S. Data Science &nbsp;·&nbsp; *Aug 2024 – May 2026* &nbsp;·&nbsp; GPA: **3.8 / 4.0**
-Project Management Certification - UMBC
+<br> Project Management Certification - UMBC <br/>
 <br/>
 
 | Certification | Issuer | Status |
