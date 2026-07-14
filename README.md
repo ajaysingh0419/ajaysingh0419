@@ -4,7 +4,7 @@
 
 **Data Engineer &nbsp;·&nbsp; Analytics Specialist &nbsp;·&nbsp; IAM Engineer**
 
-*M.S. Data Science — University of Maryland, Baltimore County*
+*M.S. Data Science - University of Maryland, Baltimore County*
 
 <br/>
 
@@ -168,5 +168,15 @@ I am an early-career IT Professional specializing in **Data Engineering, Analyti
 ---
 
 <div align="center">
-<sub>📍 Maryland, USA &nbsp;·&nbsp; 📬 akumar10@umbc.edu</sub>
+<sub>📍USA &nbsp;·&nbsp; 📬 akumar10@umbc.edu</sub>
 </div>
+
+## ⚡ Quick Stats & Collaborations
+
+*   🌱 **I’m currently learning:** Agentic AI architectures, advanced workflow orchestration, and optimizing low-latency streaming pipelines.
+*   👯 **I’m looking to collaborate on:** Open-source data tools (like custom dbt adapters or DuckDB extensions) and real-time fraud detection engine architectures.
+*   💬 **Ask me about:** 
+    *   Building high-throughput ETL pipelines with Databricks & AWS.
+    *   Automating Segregation of Duties (SoD) and identity reconciliation audits.
+    *   Designing tamper-evident audit chains & secure, Dockerized microservices.
+*   🧠 **My Philosophy:** I look at data pipelines like security networks—every point of ingestion needs to be as clean, secure, and fast as an enterprise login gate.
