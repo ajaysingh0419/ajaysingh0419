@@ -125,9 +125,9 @@ I am an early-career IT Professional specializing in **Data Engineering, Analyti
 
 | Project | Core Domain & Focus | Primary Tech Stack | Key Metrics & Impact |
 | :--- | :--- | :--- | :--- |
-| **💳 [GenAI Fraud Detection & Analytics](https://github.com/ajaysingh0419)** | Financial Cybersecurity & Generative AI | `Python` `LangChain` `OpenAI` `scikit-learn` `DuckDB`[cite: 1] | Processed **1.3M+ transactions**; generated synthetic fraud patterns with fine-tuned LoRA models to slash false positives[cite: 1]. |
-| **🏥 [ClinicalIQ Data Platform](https://github.com/ajaysingh0419)** | Healthcare, CDISC Standards & Orchestration[cite: 2] | `Python` `PostgreSQL` `dbt` `Apache Airflow` `Docker`[cite: 2] | Built an end-to-end clinical pipeline with a **28–30% simulated patient dropout rate** and automated GxP-compliant data quality checks. |
-| **🌆 [City Breathing Geospatial Engine](https://github.com/ajaysingh0419)** | High-Performance Spatial Analytics[cite: 3] | `pandas` `datashader` `contextily` `Pillow` `imageio`[cite: 3] | Ingested & aggregated **1.8M+ NYC Citi Bike trips** into optimized, time-aware 24-hour geospatial looping animations[cite: 3]. |
+| **💳 [GenAI Fraud Detection & Analytics](https://github.com/ajaysingh0419/Credit-Card-Fraud-Detection)** | Financial Cybersecurity & Generative AI | `Python` `LangChain` `OpenAI` `scikit-learn` `DuckDB`[cite: 1] | Processed **1.3M+ transactions**; generated synthetic fraud patterns with fine-tuned LoRA models to slash false positives[cite: 1]. |
+| **🏥 [ClinicalIQ Data Platform](https://github.com/ajaysingh0419/clinicaliq)** | Healthcare, CDISC Standards & Orchestration[cite: 2] | `Python` `PostgreSQL` `dbt` `Apache Airflow` `Docker`[cite: 2] | Built an end-to-end clinical pipeline with a **28–30% simulated patient dropout rate** and automated GxP-compliant data quality checks. |
+| **🌆 [City Breathing Geospatial Engine](https://github.com/ajaysingh0419/NY_breathes)** | High-Performance Spatial Analytics[cite: 3] | `pandas` `datashader` `contextily` `Pillow` `imageio`[cite: 3] | Ingested & aggregated **1.8M+ NYC Citi Bike trips** into optimized, time-aware 24-hour geospatial looping animations[cite: 3]. |
 
 ---
 
