@@ -123,18 +123,41 @@ I am an early-career IT Professional specializing in **Data Engineering, Analyti
 
 ## 📂 Featured Projects
 
-### Consumer Analytics Platform with Natural Language Querying
-*   **Stack:** `Python` `LangChain` `OpenAI API` `HuggingFace` `Streamlit` `MLflow` `scikit-learn`
-*   Architected a **Generative AI–powered NL2SQL pipeline** that translates plain-English questions into optimized SQL queries for real-time business intelligence.
-*   Trained and evaluated classification models with SHAP-based explainability for fraud signal interpretation.
+| Project | Core Domain & Focus | Primary Tech Stack | Key Metrics & Impact |
+| :--- | :--- | :--- | :--- |
+| **💳 [GenAI Fraud Detection & Analytics](https://github.com/ajaysingh0419)** | Financial Cybersecurity & Generative AI | `Python` `LangChain` `OpenAI` `scikit-learn` `DuckDB`[cite: 1] | Processed **1.3M+ transactions**; generated synthetic fraud patterns with fine-tuned LoRA models to slash false positives[cite: 1]. |
+| **🏥 [ClinicalIQ Data Platform](https://github.com/ajaysingh0419)** | Healthcare, CDISC Standards & Orchestration[cite: 2] | `Python` `PostgreSQL` `dbt` `Apache Airflow` `Docker`[cite: 2] | Built an end-to-end clinical pipeline with a **28–30% simulated patient dropout rate** and automated GxP-compliant data quality checks. |
+| **🌆 [City Breathing Geospatial Engine](https://github.com/ajaysingh0419)** | High-Performance Spatial Analytics[cite: 3] | `pandas` `datashader` `contextily` `Pillow` `imageio`[cite: 3] | Ingested & aggregated **1.8M+ NYC Citi Bike trips** into optimized, time-aware 24-hour geospatial looping animations[cite: 3]. |
 
 ---
 
-### NetScope — Real-Time Packet Analysis Engine
-*   **Stack:** `C++` `PCAP` `CSV/JSON` `Feature Engineering`
-*   Reduced manual data preprocessing time by **~70%** through automated binary packet parsing and output structuring, improving downstream anomaly detection readiness by **~40%**.
+### 💳 Generative AI–Enhanced Credit Card Fraud Detection & Analytics Platform
+* **The Mission:** Bridge the gap between classical ML, generative data privacy, and intuitive analytics by building a production-inspired transaction monitoring pipeline[cite: 1].
+* **What I Did:** 
+  * Handled severe class imbalance on a **1.3M+ transaction dataset** by engineering risk-tiering features and training Random Forest & Gradient Boosting baseline models[cite: 1].
+  * Fine-tuned local LLMs via **LoRA adapters** to generate highly realistic, statistically accurate synthetic fraud profiles to train models on rare, evolving threat vectors[cite: 1].
+  * Developed a **Natural Language-to-SQL (NL2SQL) engine** using LangChain and DuckDB, allowing non-technical business stakeholders to query real-time transactional fraud data using plain English[cite: 1].
+* **Technologies:** `Python`, `LangChain`, `OpenAI API`, `HuggingFace`, `scikit-learn`, `SHAP`, `DuckDB`, `Streamlit`[cite: 1]
 
-<br/>
+---
+
+### 🏥 ClinicalIQ — Clinical Trial Data Engineering & Analytics Platform
+* **The Mission:** Model a production-grade, CDISC-compliant pipeline demonstrating how modern clinical trial data flows securely from synthetic patient generation to regulatory-ready analytics[cite: 2].
+* **What I Did:**
+  * Synthesized multi-source clinical profiles mapping demographics, lab values, vitals, and adverse events while mathematically modeling realistic patient behaviors like **non-uniform visit intervals** and **dropout correlation with severe adverse events**.
+  * Designed physical schema mappings to generate standard **SDTM domains (DM, DS, LB, VS, AE)** and downstream analysis-ready **ADaM datasets (ADSL, ADLB, ADAE)**.
+  * Orchestrated the entire ELT workflow in **Apache Airflow**, executing schema validation, loading into a Dockerized PostgreSQL warehouse, and running modular **dbt data marts** to export executive KPI dashboards[cite: 2, 3].
+* **Technologies:** `Python (Pandas)`, `PostgreSQL`, `dbt`, `Apache Airflow`, `Docker`, `Tableau`[cite: 2, 3]
+
+---
+
+### 🌆 City Breathing — Spatial Analytics & Rendering Engine
+* **The Mission:** Turn high-volume geospatial telemetry data into high-performance, time-aware visualizations showing urban mobility dynamics[cite: 3].
+* **What I Did:**
+  * Built a highly efficient, parallelized data ingestion pipeline to process **~1.8 million spatial trip records**[cite: 3].
+  * Utilized **datashader** to bypass rendering bottlenecks, performing rapid point-aggregation of millions of coordinate pairs directly into memory-mapped pixel frames[cite: 3].
+  * Applied neon compositing filters with pillow and contextily satellite basemaps to output smooth, interpolated 24-hour looping animations illustrating real-time transportation demand[cite: 3].
+* **Technologies:** `Python`, `pandas`, `datashader`, `contextily`, `Pillow`, `imageio`[cite: 3]
 
 ## 🎓 Education & Certifications
 
